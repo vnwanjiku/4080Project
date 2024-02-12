@@ -89,7 +89,7 @@
             <p>Description of Product 3</p>
             <p>Price: $39.99</p>
             <button>Add to Cart</button>
-	    <button>Delete product</>button
+	    <button>Delete product</>button>
 	    <button>Update</button>
         </div>
     </div>
