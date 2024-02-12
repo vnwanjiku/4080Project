@@ -90,6 +90,7 @@
             <p>Price: $39.99</p>
             <button>Add to Cart</button>
 	    <button>Delete product</>button
+	    <button>Refresh</button>
         </div>
     </div>
 </body>
