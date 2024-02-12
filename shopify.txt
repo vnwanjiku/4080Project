@@ -60,7 +60,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to Our Shop</h1>
+        <h1>Welcome to Shopify</h1>
     </header>
     <nav>
         <a href="#">Home</a>
@@ -89,6 +89,7 @@
             <p>Description of Product 3</p>
             <p>Price: $39.99</p>
             <button>Add to Cart</button>
+	    <button>Delete product</>button
         </div>
     </div>
 </body>
